@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as an Android Developer Cohort in Bangkit Batch 2 2024,
 - 🌱 I’m interested in Android developement,
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ariel-christsando).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ariel-christsando).
 
 <p align="left">
 <a href="https://github.com/Christsando">
